@@ -1,6 +1,6 @@
 # Sistema de Venta de Entradas - Teatro Moro
 
-Este proyecto en Java simula un sistema de reserva y venta de entradas para el Teatro Moro, gestionando asientos, descuentos y emisión de boletas. El sistema fue desarrollado como parte de la actividad sumativa de la semana 6 del curso Fundamentos de Programación.
+Este proyecto en Java simula un sistema de reserva y venta de entradas para el Teatro Moro, gestionando asientos, descuentos y emisión de boletas. El sistema fue desarrollado como parte de la actividad sumativa de la semana 6
 
 ## Funcionalidades
 
